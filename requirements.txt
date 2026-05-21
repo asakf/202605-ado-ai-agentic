@@ -1,0 +1,5 @@
+# Minimal requirements for the todo CLI
+# (stdlib-only version does not require external packages)
+
+# If you add dependencies later, list them here, e.g.:
+# click==8.1.3
